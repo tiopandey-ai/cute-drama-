@@ -1,0 +1,6 @@
+{
+  "name": "CuteDrama",
+  "description": "A beautiful, user-friendly Asian drama review platform where you can read, browse, and publish articles, ratings, and reviews about Korean, Chinese, and Japanese dramas and movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
